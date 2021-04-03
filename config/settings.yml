@@ -1,0 +1,4 @@
+plugins:
+  user_by_id_enabled:
+    default: true
+    client: true
